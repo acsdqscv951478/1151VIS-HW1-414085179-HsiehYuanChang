@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background: #f7f7f9;
+  font-family: "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+  color: #222;
+}
+
+main {
+  max-width: 960px;
+  margin: 32px auto;
+  padding: 24px 32px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+  margin: 0 0 4px;
+  font-size: 24px;
+}
+
+.subtitle {
+  margin: 0 0 16px;
+  color: #666;
+}
+
+.source {
+  margin-top: 8px;
+  font-size: 12px;
+  color: #888;
+}
